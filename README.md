@@ -20,6 +20,7 @@ Java exercises covering basic programming concepts.
 - ch15: Interfaces and abstract classes (Shape hierarchy)
 - ch16: Interface default methods, multithreading basics
 - ch17: Streams, collectors, character frequency analysis
+- ch18: Password validation with regular expressions
 
 ## Requirements
 
